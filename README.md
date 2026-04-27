@@ -1,7 +1,8 @@
 # Dry Eye Disease Prediction
 
 A machine learning project to predict Dry Eye Disease from patient health and lifestyle data using a Random Forest classifier.
-
+Dry Eye Disease Dataset, uploaded by Daksh Nagra, Kaggle.
+Available at: https://www.kaggle.com/datasets/dakshnagra/dry-eye-disease
 ---
 
 ## Overview
